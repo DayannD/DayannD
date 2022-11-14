@@ -1,5 +1,12 @@
-### Hi there 👋
 
+<p>
+  <h1 align="center"><b>Hi there, I'm Dayann</h1>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/dayann-deshayes/"><img src="https://img.shields.io/badge/LinkedIn-CC6699?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.16personalities.com/profiles/b2c868ad1f58a"><img src="https://img.shields.io/badge/16personalities-000000?style=for-the-badge&logo=16pers&logoColor=white" alt="16pers" /></a>&nbsp;
+</p>
+<br />
 <!--
 **DayannD/DayannD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
