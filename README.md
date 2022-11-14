@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  <img="center" with="20%" src="https://media.giphy.com/media/Zbg9h2rvR3eh2ZcbdS/giphy.gif"/>
+  <img="center" with="20%" src="https://media.giphy.com/media/Zbg9h2rvR3eh2ZcbdS/giphy.gif" />
  </p>
   
 <!--
