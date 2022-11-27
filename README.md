@@ -8,6 +8,8 @@
   <a href="https://www.16personalities.com/profiles/b2c868ad1f58a"><img src="https://img.shields.io/badge/16personalities-000000?style=for-the-badge&logo=16pers&logoColor=white" alt="16pers" /></a>&nbsp;
 </p>
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayannd)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p >i'm in professionelle reconverter since 2 years.Not enough expériences or not enough diploma. Now, i found a formation thanks to Simplon.co, who       will allow me overcome these walls for take my dream job.
  </p>
 <p>
