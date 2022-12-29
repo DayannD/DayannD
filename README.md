@@ -21,9 +21,7 @@ I am in professional reconversion for 2 years. Not enough experience or not enou
 </p>
 
 
-<p align="center">
-  <img align="center" with="100%" src="https://media.giphy.com/media/Zbg9h2rvR3eh2ZcbdS/giphy.gif" />
-</p> 
+
 
 <br />
 
